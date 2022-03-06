@@ -8,3 +8,4 @@ SproutExam
 4. Add API documentation.
 5. Migrations and DbContext should put on data access layer.
 6. Remove unecessary codes / classes.
+7. Add more unit tests.
